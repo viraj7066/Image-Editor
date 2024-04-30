@@ -21,7 +21,7 @@ This is a simple web-based image editor built using HTML, CSS, and JavaScript. U
 ## Getting Started
 To run this project locally:
 1. Clone this repository:
-git clone https://github.com/yourusername/basic-image-editor.git
+git clone https://github.com/viraj7066/image-editor.git
 2. Open `index.html` in your web browser.
 
 ## Technologies Used
